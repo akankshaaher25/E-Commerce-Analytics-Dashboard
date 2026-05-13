@@ -36,19 +36,15 @@ The project converts raw business data into interactive visual insights for busi
 
 ## Dashboard Preview
 
-![Dashboard](dashboard.PNG)
+![Dashboard](Dashboard.PNG)
 
-![Dashboard Screenshot 1](dashboard%20ss%2001.PNG)
+![Dashboard Screenshot 2](Dashboard%20SS%2002.PNG)
 
-![Dashboard Screenshot 2](dashboard%20ss%2002.PNG)
+![Dashboard Screenshot 3](Dashboard%20SS%2003.PNG)
 
-![Dashboard Screenshot 3](dashboard%20ss%2003.PNG)
+![Dashboard Screenshot 4](Dashboard%20SS%2004.PNG)
 
-![Dashboard Screenshot 4](dashboard%20ss%2004.PNG)
-
-![Dashboard Screenshot 5](dashboard%20ss%2005.PNG)
-
-![Dashboard Screenshot 5](dashboard%20ss%2005.png)
+![Dashboard Screenshot 5](Dashboard%20SS%2005.PNG)
 
 ---
 
